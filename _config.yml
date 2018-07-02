@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alan
-subtitle: Student of Software Engineering
+title: Alan Fagundes
 description: >- # this means to ignore newlines until "baseurl:"
   Hey, i'm Alan. I'am a sudent of Software Enginering at UCSal.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 nick: alanfgn
 email: alan.souza.fagundes@gmail.com
-twitter: https://twitter.com/alanfgn
+# twitter: https://twitter.com/alanfgn
 github:  https://github.com/alanfgn
 linkedin: https://www.linkedin.com/in/alan-souza-fagundes/
 
