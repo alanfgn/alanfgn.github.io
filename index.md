@@ -4,7 +4,7 @@ layout: home
 
 {::options auto_ids="false" /}
 
-#### Olá, meu nome é Alan, sou estudante de engeharia de software na UCSal desde 2015. Apaixonado pelo conhecimento, Entusiasta em Machine learning, Java e Pyhton.
+#### Olá, meu nome é Alan, sou estudante de engenharia de software na UCSal desde 2015. Apaixonado pelo conhecimento, Entusiasta em Machine learning, Java e Python.
 
 ***
 
@@ -12,7 +12,7 @@ Educação:
 ---
 
 **Bacharelado em Engenharia de Software - UCSal: Universidade Católica de Salvador**
-:   **Periodo:**  Junho de 2015 - Atualmente (Previsão dezembro de 2019)
+:   **Período:**  Junho de 2015 - Atualmente (Previsão dezembro de 2019)
 
 ---
 
@@ -30,7 +30,7 @@ Experiência:
 ---
 
 **Atena Tecnologia**
-:   **Periodo:** Novembro de 2017 - Atualmente 
+:   **Periodo:** Novembro de 2017 - Atualmente
 :   **Função:** Estagiário.
 :   **Atividades:** Manutenção, correção de erros e implementação de funcionalidades em sistemas Asp.Net que a empresa gere.  
 
@@ -39,7 +39,7 @@ Experiência:
 Qualificações:
 ---
 
-* **Java Profissional** - Oferecido pela Parallel 
+* **Java Profissional** - Oferecido pela Parallel
     * **Certificado:** A partir de Julho de 2017  
     * **Carga horária:** 40 horas.
 
@@ -51,31 +51,31 @@ Qualificações:
 
 ---
 
-* **Java e JPA: Persista seus objetos com jpa2 e hibernate**  - Oferecido pela Alura Cursos Online 
+* **Java e JPA: Persista seus objetos com jpa2 e hibernate**  - Oferecido pela Alura Cursos Online
     * **Certificado:**  A partir de Janeiro de 2018 - [<i class="fas fa-link"></i>](https://cursos.alura.com.br/certificate/f3da5110-38e8-4b40-97f9-95e6e8cd36ca){: target="_blank"}
     * **Carga horária:** 17 horas.
 
 ---
 
-* **Java e JPA: Otimizações com JPA2 e Hibernate**  - Oferecido pela Alura Cursos Online 
+* **Java e JPA: Otimizações com JPA2 e Hibernate**  - Oferecido pela Alura Cursos Online
     * **Certificado:**  A partir de Junho de 2018 - [<i class="fas fa-link"></i>](https://cursos.alura.com.br/certificate/7acc8fb8-8032-47b6-a374-b225d9943de5){: target="_blank"}
     * **Carga horária:** 12 horas.
 
 ---
 
-* **Java e JSF I: Sua aplicação web com JSF2** - Oferecido pela Alura Cursos Online 
+* **Java e JSF I: Sua aplicação web com JSF2** - Oferecido pela Alura Cursos Online
     * **Certificado:** A partir de Fevereiro de 2018 - [<i class="fas fa-link"></i>](https://cursos.alura.com.br/certificate/b6df3567-1104-45c3-9388-aefa85c8df20){: target="_blank"}
     * **Carga horária:** 20 horas.
 
 ---
 
-* **Java e JSF II: Componentes ricos com Primefaces** - Oferecido pela Alura Cursos Online 
+* **Java e JSF II: Componentes ricos com Primefaces** - Oferecido pela Alura Cursos Online
     * **Certificado:** A partir de Fevereiro de 2018 - [<i class="fas fa-link"></i>](https://cursos.alura.com.br/certificate/0486bc45-e25f-4ac9-aaf8-0c2f54712ea8){: target="_blank"}
     * **Carga horária:** 12 horas.
 
 ---
 
-* **VRaptor4: Alta produtividade com aplicações web em java** - Oferecido pela Alura Cursos Online 
+* **VRaptor4: Alta produtividade com aplicações web em java** - Oferecido pela Alura Cursos Online
     * **Certificado:** A partir de Janeiro de 2018 - [<i class="fas fa-link"></i>](https://cursos.alura.com.br/certificate/201a1cb2-bcf8-442b-ba97-8cb62ebbc8ab){: target="_blank"}
     * **Carga horária:** 18 horas.
 
@@ -91,8 +91,8 @@ Tecnologias
 * Desenvolvimento e manutenção de sistemas .Net com WebForms e Fluent NHibernate.
 * Desenvolvimento back-end em PHP utilizando PDO.
 * Utilização dos Bancos de Dados: **Mysql**, **PostGreSQL**, **MSSQL**, **HSQLDB** e **Oracle Database**.
-* Versionamento de código com **Git** e **Team Foundation**. 
-* Entendimento dos conceitos: Programação Orientada a Objetos e MVC 
+* Versionamento de código com **Git** e **Team Foundation**.
+* Entendimento dos conceitos: Programação Orientada a Objetos e MVC
 * Entendimento dos padrões GRASP e GOF.
 * Experiencia com sistemas Linux(**Ubuntu** e **Debian**) e Windows(**7** e **10**).
 * C e C++ básicos.
@@ -115,4 +115,3 @@ Projetos
 ---
 **Bolet-os [<i class="fas fa-link"></i>](https://github.com/alanfgn/bolet-os)**
 :   Software feito como estudo para Spring MVC, Spring ORM e Hibernate e o conceito de Web-services
-
